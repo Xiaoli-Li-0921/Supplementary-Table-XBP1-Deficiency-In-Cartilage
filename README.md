@@ -5,3 +5,5 @@ This repository stored large supplementary tables of the paper "Effect Of XBP1 D
 * Supplementary Table S18. miRNA-lncRNA interactions.
 * Supplementary Table S21. miRNA-mRNA interactions.
 * Supplementary Table S23. lncRNA-miRNA-mRNA co-expression networks
+* Supplementary Table S24. circRNA-miRNA-mRNA.DEG GO enrichment result
+* Supplementary Table S26. lncRNA-miRNA-mRNA.DEG GO enrichment result
